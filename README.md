@@ -18,7 +18,7 @@ Below is the BibTex for citing this snapshot of the repository.
 @misc{CacheTest,
   author =        {Shengnan Shu, Zhou Xu, and Jin Qi},
   publisher =     {INFORMS Journal on Computing},
-  title =         {{Robust Service Network Design under Travel Time Uncertainty: Formulations and Exact Solutions}},
+  title =         {Robust Service Network Design under Travel Time Uncertainty: Formulations and Exact Solutions},
   year =          {2026},
   doi =           {10.1287/ijoc.2024.0874.cd},
   url =           {https://github.com/INFORMSJoC/2024.0874},
