@@ -29,6 +29,8 @@ Below is the BibTex for citing this snapshot of the repository.
 ## Description
 
 The folder data contains all the instances used in the paper.
+
 The folder results contains instance-level summary results for the two methods studied in the paper.
-The folder code contains the Java source code used to conduct the computational experiments reported in the paper.
+
+The folder src contains the Java source code used to conduct the computational experiments reported in the paper.
 
