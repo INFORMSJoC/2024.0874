@@ -34,3 +34,6 @@ The folder results contains instance-level summary results for the two methods s
 
 The folder src contains the Java source code used to conduct the computational experiments reported in the paper.
 
+The folder docs contains some additional documentation companion for the paper.
+
+
