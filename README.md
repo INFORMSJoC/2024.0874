@@ -6,7 +6,7 @@ This archive is distributed in association with the [INFORMS Journal on
 Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
 
 The data, code, and documentation in this repository are a snapshot of the materials associated with the paper 
-[Robust Service Network Design under Travel Time Uncertainty: Formulations and Exact Solutions](https://doi.org/10.1287/ijoc.2019.0874) by Shengnan Shu, Zhou Xu, and Jin Qi. 
+[Robust Service Network Design under Travel Time Uncertainty: Formulations and Exact Solutions](https://doi.org/10.1287/ijoc.2024.0874) by Shengnan Shu, Zhou Xu, and Jin Qi. 
 
 **Important: This code is being developed on an on-going basis at 
 https://github.com/tkralphs/JoCTemplate. Please go there if you would like to
