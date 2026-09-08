@@ -10,6 +10,7 @@ The data, code, and documentation in this repository constitute a snapshot of th
 
 To cite the contents of this repository, please cite both the paper and this repo, using their respective DOIs.
 
+https://doi.org/10.1287/ijoc.2024.0874
 https://doi.org/10.1287/ijoc.2024.0874.cd
 
 Below is the BibTex for citing this snapshot of the repository.
