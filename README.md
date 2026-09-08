@@ -1,10 +1,14 @@
 [![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
 
-# Robust Service Network Design under Travel Time Uncertainty: Formulations and Exact Solutions
+[![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
 
-This archive is distributed in association with the INFORMS Journal on Computing under the MIT License.
+# CacheTest
 
-The data, code, and documentation in this repository constitute a snapshot of the materials associated with the paper “Robust Service Network Design under Travel Time Uncertainty: Formulations and Exact Solutions” by Shengnan Shu, Zhou Xu, and Jin Qi.
+This archive is distributed in association with the [INFORMS Journal on
+Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
+
+The data, code, and documentation in this repository are a snapshot of the materials associated with the paper 
+[Robust Service Network Design under Travel Time Uncertainty: Formulations and Exact Solutions](https://doi.org/10.1287/ijoc.2019.0874) by Shengnan Shu, Zhou Xu, and Jin Qi. 
 
 ## Cite
 
